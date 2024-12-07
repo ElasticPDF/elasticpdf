@@ -69,6 +69,7 @@ ElasticPDF 延续了 pdf.js-dist 的架构风格，全部使用朴素 Javascript
 
 无论是桌面端、平板端或者手机都可以精确选择文本，支持跨页高亮，高亮后内容可以修改颜色等属性。
 <video src="demo-videos/1-highlight.mp4"></video>
+https://github.com/user-attachments/assets/12b2c07d-0fed-4693-90bb-eda65ce184dd
 
 ② 下划线
 
