@@ -1,8 +1,9 @@
 <h1 align="center">ElasticPDF-简如 pdf.js，强如 Acrobat</h1>
 
+- [English Version](README.md)
+- [中文版](README-CN.md)
+
 <h4 align="center" style='margin-bottom:30px;'>
-	- [English Version](README.md)
-	- [中文版](README-CN.md)
     <a href="#">English</a> · 
 	<a href="#">简体中文</a> ·
     <a href="https://www.elasticpdf.com/documentation">文档</a> · 
