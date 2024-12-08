@@ -48,7 +48,7 @@ ElasticPDF 是一款**新国产 PDF 编辑器开发框架**，基于开源 pdf.j
 ![封面图.png](images/poster.png)
 
 			                    
-## 2 功能展示
+## 2 功能一览
 
 除以下功能外，其他功能也在持续开发中，几乎所有功能都支持定制开发，欢迎提交
 <a style='font-weight:700;text-decoration:underline;' href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=%3Asparkles%3A+feature+request&projects=&template=feature_request.yml" target="_blank">功能需求</a>
@@ -70,7 +70,7 @@ ElasticPDF 延续了 pdf.js-dist 的架构风格，全部使用朴素 Javascript
 ① 文本高亮
 
 无论是桌面端、平板端或者手机都可以精确选择文本，支持跨页高亮，高亮后内容可以修改颜色等属性。
-![highlight.gif](images/1-highlight-small.gif)
+<video autoplay loop src="https://github.com/user-attachments/assets/12b2c07d-0fed-4693-90bb-eda65ce184dd"></video>
 
 ② 下划线
 
