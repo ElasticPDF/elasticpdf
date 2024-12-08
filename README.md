@@ -1,8 +1,7 @@
-<h1 align="center">ElasticPDF-简如 pdf.js，强如 Acrobat</h1>
+<h1 align="center" style="color:#0081ff;">ElasticPDF-简如 pdf.js，强如 Acrobat</h1>
 
-<p align="center">
-[English](README.md) | [简体中文](README-CN.md)
-</p>
+English | [简体中文](./README-CN.md)
+
 <h4 align="center" style='margin-bottom:30px;'>
     <a href="https://www.elasticpdf.com/documentation">文档</a> · 
 	<a href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=&projects=&template=bug_report.yml" target="_blank">Report Bug</a> · 
