@@ -2,7 +2,8 @@
 
 <h4 align="center" style='margin-bottom:30px;'>
     <span>简体中文</span> · 
-    <a href="./README.md">English</a> · 
+    <a href="./README.md">English</a> ·  
+    <a href="https://www.elasticpdf.com/contact">联系我们</a> · 
     <a href="https://www.elasticpdf.com/documentation">文档</a> · 
 	<a href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=&projects=&template=bug_report.yml" target="_blank">Report Bug</a> · 
 	<a href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=%3Asparkles%3A+feature+request&projects=&template=feature_request.yml" target="_blank">Request Feature</a> · 
