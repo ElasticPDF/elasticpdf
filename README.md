@@ -71,17 +71,17 @@ ElasticPDF 延续了 pdf.js-dist 的架构风格，全部使用朴素 Javascript
 ① 文本高亮
 
 无论是桌面端、平板端或者手机都可以精确选择文本，支持跨页高亮，高亮后内容可以修改颜色等属性。
-<video src="https://github.com/user-attachments/assets/12b2c07d-0fed-4693-90bb-eda65ce184dd"></video>
+<video autoplay loop src="https://github.com/user-attachments/assets/12b2c07d-0fed-4693-90bb-eda65ce184dd"></video>
 
 ② 下划线
 
 与高亮功能类似，实现了多种设备文本的精确选择，批注生成后可以修改批注颜色、线条粗细等
-<video src="https://github.com/user-attachments/assets/4a338de0-aa36-4d27-91ea-1304d8bfee72"></video>
+<video autoplay loop src="https://github.com/user-attachments/assets/4a338de0-aa36-4d27-91ea-1304d8bfee72"></video>
 
 ③ 插入图片
 
 支持以选取文件或者拖入的方式来插入图片，之后可以对图片的大小、位置、方位、不透明度等实现流畅的修改
-<video src="https://github.com/user-attachments/assets/bdd211b7-eb19-4bc4-9ab9-54788be45a8b"></video>
+<video autoplay loop src="https://github.com/user-attachments/assets/bdd211b7-eb19-4bc4-9ab9-54788be45a8b"></video>
 
 ④ 屏幕截图
 
