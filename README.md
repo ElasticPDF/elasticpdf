@@ -54,7 +54,7 @@ ElasticPDF 是一款**新国产 PDF 编辑器开发框架**，基于开源 pdf.j
 除以下功能外，其他功能也在持续开发中，几乎所有功能都支持定制开发，欢迎提交
 <a style='font-weight:700;text-decoration:underline;' href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=%3Asparkles%3A+feature+request&projects=&template=feature_request.yml" target="_blank">Request Feature</a>
 
-![功能介绍](images/introduction-CN.jpg)
+![功能介绍](images/introduction-CN.png)
 
 ## 3 技术优势
 
