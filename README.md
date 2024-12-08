@@ -68,7 +68,7 @@ ElasticPDF 延续了 pdf.js-dist 的架构风格，全部使用朴素 Javascript
 
 ## 4 批注功能演示
 
-### 3.2 批注功能
+### 4.1 批注功能
 ① 文本高亮
 
 无论是桌面端、平板端或者手机都可以精确选择文本，支持跨页高亮，高亮后内容可以修改颜色等属性。
@@ -109,7 +109,7 @@ ElasticPDF 延续了 pdf.js-dist 的架构风格，全部使用朴素 Javascript
 通过绘制矩形框或者选取文字后创建超链接对象，之后可以链接到 URL、页码、在线文档等
 <video src="https://github.com/user-attachments/assets/140acbae-a747-4d8c-8af6-257aff8a273e"></video>
 
-### 3.2 批注管理功能
+### 4.2 批注管理功能
 
 ① 橡皮擦
 
