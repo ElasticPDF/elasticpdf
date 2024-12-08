@@ -73,56 +73,56 @@ ElasticPDF 延续了 pdf.js-dist 的架构风格，全部使用朴素 Javascript
 ② 下划线
 
 与高亮功能类似，实现了多种设备文本的精确选择，批注生成后可以修改批注颜色、线条粗细等
-<video src="demo-videos/2-underline.mp4"></video>
+<video src="https://github.com/user-attachments/assets/4a338de0-aa36-4d27-91ea-1304d8bfee72"></video>
 
 ③ 插入图片
 
 支持以选取文件或者拖入的方式来插入图片，之后可以对图片的大小、位置、方位、不透明度等实现流畅的修改
-<video src="demo-videos/3-insert-image.mp4"></video>
+<video src="https://github.com/user-attachments/assets/bdd211b7-eb19-4bc4-9ab9-54788be45a8b"></video>
 
 ④ 屏幕截图
 
 绘制矩形框后可截取当前文档的部分内容，并可以修改矩形框位置后再次截图
-<video src="demo-videos/3-insert-image.mp4"></video>
+<video src="https://github.com/user-attachments/assets/13a1fb58-fa06-42d5-a98c-0cc82a1eef87"></video>
 
 ⑤ 自由绘制
 
 可以随意调整笔刷的大小、颜色和不透明度，然后在文档上自由的绘制，在设置不透明度较小时还可以用来高亮扫描件文本
-<video src="demo-videos/5-brush.mp4"></video>
+<video src="https://github.com/user-attachments/assets/b7569b1c-92a4-47ae-b6f5-42c4e5b96028"></video>
 
 ⑥ 添加文本
 
 可以以插入和拖入的方式来创建文本批注，支持所有语言，创建后可以拖动的方式修改字体形状、字体大小等
-<video src="demo-videos/6-add-text.mp4"></video>
+<video src="https://github.com/user-attachments/assets/13def84d-0f45-492e-9dba-d6886cd9e430"></video>
 
 ⑦ 多边形
 
 支持创建箭头、直线、矩形、圆形（椭圆）、对勾和身份印章等多边形，生成后的批注支持颜色、大小、位置方位等的修改
-<video src="demo-videos/7-polygon.mp4"></video>
+<video src="https://github.com/user-attachments/assets/d43baf08-e8a7-48fa-ba83-133649cc4dbb"></video>
 
 ⑧ 超链接
 
 通过绘制矩形框或者选取文字后创建超链接对象，之后可以链接到 URL、页码、在线文档等
-<video src="demo-videos/8-hyperlink.mp4"></video>
+<video src="https://github.com/user-attachments/assets/140acbae-a747-4d8c-8af6-257aff8a273e"></video>
 
 ## 3.2 批注管理功能
 
 ① 橡皮擦
 
 超强橡皮擦功能，可以局部擦除批注对象，擦除过程中轨迹可见，且擦除后的文本仍然可编辑
-<video src="demo-videos/9-eraser.mp4"></video>
+<video src="https://github.com/user-attachments/assets/2350143a-9e74-4249-ab00-822a36e840e3"></video>
 
 ② 撤销 & 重做 批注
 
 撤销或者重做批注，包括批注的生成、修改等各类编辑以及删除等操作
-<video src="demo-videos/10-undo-redo.mp4"></video>
+<video src="https://github.com/user-attachments/assets/d49a30ee-0802-42e5-b66b-73bba25558ea"></video>
 
 ③ 导出 & 导入 JSON 批注
 
 支持将批注文档导出为 JSON 文件，之后再次加载 JSON 文件实现完美的回显，是多端同步的最佳方案
-<video src="demo-videos/11-output-input-annotation.mp4"></video>
+<video src="https://github.com/user-attachments/assets/329e3295-e4b5-4cc4-9e22-d12f29990135"></video>
 
 ④ 批注连接线 & 双语
 
 将右侧列表中的批注与页面的图形对象相连，每一页都单独控制；所有页面操作都支持中英文双语
-<video src="demo-videos/12-connect-line-language.mp4"></video>
+<video src="https://github.com/user-attachments/assets/8c490a7c-ea4d-499b-93db-b89834c70160"></video>
