@@ -34,12 +34,11 @@ ElasticPDF 是一款**新国产 PDF 编辑器开发框架**，基于开源 pdf.j
 
 ## 0 安装部署
 购买许可后我们会提供一个开箱即用的离线代码包，安装部署方法与 **pdf.js-dist** 代码包相同，具体方法为使用 `<iframe>` 或者 `<webview>` 等组件导入代码包内的 viewer.html 即完成嵌入，无需下载任何依赖。
-
-			                 
+         
 
 ## 1 在线 Demo 地址
 
-针对于不同项目的开发需求，目前有两个版本的产品可供选择（非免费） ，两者在授权方式和最终批注写入 PDF 的技术效果上有区别，具体以在线 Demo 网站的说明和运行效果为准。试用过程中如遇问题欢迎 <a href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=&projects=&template=bug_report.yml" style='font-weight:600;text-decoration:underline;' target="_blank">Report Bug</a>            
+针对于不同项目的开发需求，目前有两个版本的产品可供选择（非免费） ，两者在授权方式和最终批注写入 PDF 的技术效果上有区别，具体以在线 Demo 网站的说明和运行效果为准。试用过程中如遇问题请 <a href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=&projects=&template=bug_report.yml" style='font-weight:600;text-decoration:underline;' target="_blank">Report Bug</a>            
 
 
 **① 批注合成版：<https://demos.libertynlp.com/#/pdfjs-annotation>**
@@ -52,7 +51,7 @@ ElasticPDF 是一款**新国产 PDF 编辑器开发框架**，基于开源 pdf.j
 ## 2 功能展示
 
 除以下功能外，其他功能也在持续开发中，几乎所有功能都支持定制开发，欢迎提交
-<a style='font-weight:700;text-decoration:underline;' href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=%3Asparkles%3A+feature+request&projects=&template=feature_request.yml" target="_blank">Request Feature</a>
+<a style='font-weight:700;text-decoration:underline;' href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=%3Asparkles%3A+feature+request&projects=&template=feature_request.yml" target="_blank">功能需求</a>
 
 ![功能介绍](images/introduction-CN.png)
 
