@@ -35,10 +35,10 @@ ElasticPDF is a **new professional PDF editor development library**, based on th
 ## [2026-01-26] PDF text editing feature
 
 Fully frontend text editing with no backend required.                         
-Edit PDF text just like editing a Word document. Delete, replace, or add text freely, with support for colored text, superscripts and subscripts, and full support for non-ASCII languages such as Chinese, Japanese, and Korean.                 
+Edit PDF text just like editing a Word document. `Delete, replace, or add text freely`, with support for `colored text`, `superscripts and subscript`s, and full support for non-ASCII languages such as `Chinese, Japanese, and Korean.`                 
 
-[] Automatic text reflow: content is re-laid out automatically when resizing text boxes                   
-[] Edit rotated PDF text at any angle, including 90°, 180°, and 270°                   
+**① Automatic text reflow: content is re-laid out automatically when resizing text boxes**                   
+**② Edit rotated PDF text at any angle, including 90°, 180°, and 270°**                   
 <video autoplay loop src="https://elasticpdf.com/static/operation-videos/16-text-edit.mp4"></video>
 
  
