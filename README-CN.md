@@ -31,7 +31,21 @@
 </p>
 
 ElasticPDF 是一款**新国产 PDF 编辑器开发框架**，基于开源 pdf.js 的渲染框架，增加了批注功能，支持全离线运行，适用于公网及内网系统。代码包结构延续了 pdf.js-dist 简洁的风格，兼容所有主流浏览器，不仅可以部署于 Web 项目，也可以嵌入任意桌面端和移动端项目中。                              
-                                    
+
+
+## [2026-01-26] PDF文字编辑功能(基于pdf.js)
+
+视频演示: **[https://youtu.be/P9dg_olshzU](https://youtu.be/Pa8lLZ2Fjlk)**           
+
+PDF文字编辑功能演示，纯前端实现`文字编辑，无需后端`支持，像编辑 Word 一样编辑 PDF 中的文字，`任意删除、替换、新增文字，支持彩色文字、上下标`等特殊文本，完整支持 `中文、日文、韩文`等非 ASCII 文字
+
+**① 文本自适，调整文本框大小后自动重新排版文字内容**                     
+**② 编辑旋转任意角度的PDF文字，包括 90°，180°，270°等**                            
+
+![Edit PDF Text](images/edit-pdf-text.gif)
+
+![Resize Move Rotate Text](images/resize-move-rotate-text.gif)
+									
 
 ## 0 安装部署
 购买许可后我们会提供一个开箱即用的离线代码包，安装部署方法与 **pdf.js-dist** 代码包相同，具体方法为使用 **`<iframe>`** 或者 **`<webview>`** 等组件导入代码包内的 _**`viewer.html`**_ 即完成嵌入，无需下载任何依赖。
