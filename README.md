@@ -39,7 +39,7 @@ Edit PDF text just like editing a Word document. `Delete, replace, or add text f
 
 **① Automatic text reflow: content is re-laid out automatically when resizing text boxes**                   
 **② Edit rotated PDF text at any angle, including 90°, 180°, and 270°**                   
-<video autoplay loop src="https://elasticpdf.com/static/operation-videos/16-text-edit.mp4"></video>
+Demo Video: **[https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=&projects=&template=bug_report.yml](https://youtu.be/P9dg_olshzU)**
 
  
 ## 0 Usage
