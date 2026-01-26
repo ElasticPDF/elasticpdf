@@ -32,15 +32,19 @@
 
 ElasticPDF is a **new professional PDF editor development library**, based on the open source pdf.js-dist, with added annotation features, supporting full offline deploy, and suitable for public and intranet systems. The code structure continues the simple style of pdf.js-dist, is compatible with all mainstream browsers, and can be deployed not only in Web projects, but also embedded in any desktop and mobile projects.
 
-## [2026-01-26] PDF text editing feature
+## [2026-01-26] PDF text editing feature with pdf.js
+
+Demo Video: **[https://youtu.be/P9dg_olshzU](https://youtu.be/P9dg_olshzU)**           
 
 Fully frontend text editing with no backend required.                         
 Edit PDF text just like editing a Word document. `Delete, replace, or add text freely`, with support for `colored text`, `superscripts and subscript`s, and full support for non-ASCII languages such as `Chinese, Japanese, and Korean.`                 
 
 **① Automatic text reflow: content is re-laid out automatically when resizing text boxes**                   
 **② Edit rotated PDF text at any angle, including 90°, 180°, and 270°**                   
-Demo Video: **[https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=&projects=&template=bug_report.yml](https://youtu.be/P9dg_olshzU)**
 
+![Edit PDF Text](images/edit-pdf-text.gif)
+
+![Resize Move Rotate Text](images/resize-move-rotate-text.gif)
  
 ## 0 Usage
 After purchasing a license, we will provide a **out-of-the-box** offline code package. The installation and deployment method is the same as the **pdf.js-dist** code package. The specific method is to use components such as **`<iframe>`** or **`<webview>`** to import the _**`viewer.html`**_ in the code package to complete the embedding without downloading any dependencies.
