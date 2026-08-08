@@ -4,8 +4,8 @@
     <span>简体中文</span> · 
 	<a href="https://github.com/ElasticPDF/elasticpdf/blob/doc-zh_cn/CHANGELOG-CN.md">更新日志</a> · 
     <a href="https://www.elasticpdf.com/contact-us.html">联系我们</a> · 
-	<a href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=&projects=&template=bug_report.yml" target="_blank">Report Bug</a> · 
-	<a href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=%3Asparkles%3A+feature+request&projects=&template=feature_request.yml" target="_blank">Request Feature</a> · 
+	<a href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=&projects=&template=bug_report.yml" target="_blank">报告错误</a> · 
+	<a href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=%3Asparkles%3A+feature+request&projects=&template=feature_request.yml" target="_blank">功能请求</a> · 
 	<a href="https://github.com/ElasticPDF/elasticpdf/discussions" target="_blank">FAQ</a>
 </h4>
 
