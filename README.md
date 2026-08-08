@@ -3,6 +3,7 @@
 <h4 align="center" style='margin-bottom:30px;'>
      <span>English</span> · 
 	<a href="https://github.com/ElasticPDF/elasticpdf/tree/doc-zh_cn">简体中文</a> · 
+	<a href="https://github.com/ElasticPDF/elasticpdf/blob/main/CHANGELOG.md">Changelog</a> · 
     <a href="https://www.elasticpdf.com/contact-us.html">Contact</a> · 
     <a href="https://www.elasticpdf.com/documentation.html">Doc</a> · 
 	<a href="https://github.com/ElasticPDF/elasticpdf/issues/new?assignees=&labels=&projects=&template=bug_report.yml" target="_blank">Report Bug</a> · 
