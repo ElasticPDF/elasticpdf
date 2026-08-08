@@ -61,11 +61,11 @@ We have also carefully prepared a series of video tutorials to help you get star
 ⑤ Smart PDF Viewer: https://youtu.be/gTTBiILhSrA             
 ⑥ Complete 15-Minute Tutorial Combining All the Above Modules: https://youtu.be/HWasP3Qfu00      
 
-# 1 Edit Existing Text PDF
+# 1 Edit Existing Text in a PDF
 
 In ElasticPDF, editing existing PDF text requires only one click, with no need to convert the file to Word first.
 
-Video demo: **<https://www.bilibili.com/video/BV1VE3F6nEAJ/>**
+Video demo: **<https://youtu.be/Mk8hJOb4l4g>**
 
 Users can `add or delete` text and insert `spaces, carriage returns, and line breaks`. This makes it possible to modify names, dates, amounts, reference numbers, addresses, paragraphs, table cells, and fixed template fields.
 
@@ -85,22 +85,22 @@ Switching tools, moving the page out of view, or manually exporting the PDF will
 
 |  |  |  |
 | --- | --- | --- |
-| 1 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/70_edit_text_content_zh.png" alt="Text editing feature 1" width="180"> | Delete existing text and enter new font and text content |
-| 2 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/71_text_reflow_zh.png" alt="Text editing feature 2" width="180"> | In a paragraph containing multiple sentences, resize the entire text box to make multiple blocks of text reflow and fill the available space adaptively |
-| 3 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/72_move_text_block_zh.png" alt="Text editing feature 3" width="180"> | Move the entire text box to another position |
-| 4 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/73_rotate_text_zh.png" alt="Text editing feature 4" width="180"> | Edit existing rotated text<br><br>or rotate existing text |
-| 5 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/74_bold_text_zh.png" alt="Text editing feature 5" width="180"> | Apply bold formatting to the selected text |
-| 6 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/75_text_color_zh.png" alt="Text editing feature 6" width="180"> | Change the text color |
-| 7 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/76_text_alignment_zh.png" alt="Text editing feature 7" width="180"> | Align text to the center, left, or right |
-| 8 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/77_copy_paste_text_zh.png" alt="Text editing feature 8" width="180"> | Copy and paste text using Cmd/Ctrl+C/V while preserving the original font, color, and other styling |
-| 9 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/78_delete_text_block_zh.png" alt="Text editing feature 9" width="180"> | Delete the entire text group |
+| 1 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/3_edit_text_content_en.png" alt="Text editing function 1" width="180"> | Delete existing text, or enter new fonts and text content. |
+| 2 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/4_text_reflow_en.png" alt="Text editing function 2" width="180"> | In multi-sentence paragraphs, resize the text box to achieve adaptive text reflow and alignment. |
+| 3 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/5_move_text_block_en.png" alt="Text editing function 3" width="180"> | Move the entire text box to another location. |
+| 4 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/6_rotate_text_en.png" alt="Text editing function 4" width="180"> | Edit existing **rotated text**,<br><br>or **rotate** existing text. |
+| 5 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/7_bold_text_en.png" alt="Text editing function 5" width="180"> | Apply **bold** formatting to the selected text. |
+| 6 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/8_text_color_en.png" alt="Text editing function 6" width="180"> | Change the **color** of the text content. |
+| 7 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/9_text_alignment_en.png" alt="Text editing function 7" width="180"> | Align text to the **left, center, or right**. |
+| 8 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/10_copy_paste_text_en.png" alt="Text editing function 8" width="180"> | Copy and paste text content (shortcut: Cmd/Ctrl + C / V) while preserving the original **font, color**, and other formatting. |
+| 9 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/11_delete_text_block_en.png" alt="Text editing function 9" width="180"> | **Delete** the entire text block/group. |
 
 
-# 2 Edit Existing Images and Shapes PDF
+# 2 Edit Existing Images and Shapes in a PDF
 
 ElasticPDF allows users to directly select existing images, lines, and color blocks in a PDF and modify them just as they would in Word or PowerPoint.
 
-Video demo: **<https://www.bilibili.com/video/BV19j3F6DELt/>**
+Video demo: **<https://youtu.be/htyjlX-eedU>**
 
 After selecting an object, users can `move, scale, and rotate` it, or adjust its `width, height`, and exact position. Page objects that are not modified remain unchanged.
 
@@ -121,17 +121,16 @@ Layer controls prevent `images, text`, and other page objects from covering one 
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| 1 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/79_image_transform_controls_zh.png" alt="Image editing tool 1" width="210"> | General controls for rotating, moving, dragging, and changing an object's position, angle, and size |  |
-| 2 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/80_crop_image_controls_zh.png" alt="Image editing tool 2" width="210"> | Crop an object | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/81_crop_image_example_zh.png" alt="Image editing example 2" width="280"> |
-| 3 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/82_layer_order_controls_zh.png" alt="Image editing tool 3" width="210"> | Bring to front or send to back;<br><br>move one layer forward or backward | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/83_layer_order_example_zh.png" alt="Image editing example 3" width="280"> |
-| 4 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/84_rotate_image_controls_zh.png" alt="Image editing tool 4" width="210"> | Rotate an object clockwise or counterclockwise | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/85_rotate_image_example_zh.png" alt="Image editing example 4" width="280"> |
-| 5 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/86_flip_image_controls_zh.png" alt="Image editing tool 5" width="210"> | Flip horizontally or vertically | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/87_flip_image_example_zh.png" alt="Image editing example 5" width="280"> |
-| 6 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/88_image_opacity_controls_zh.png" alt="Image editing tool 6" width="210"> | Change opacity | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/89_image_opacity_example_zh.png" alt="Image editing example 6" width="280"> |
-| 7 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/90_image_size_controls_zh.png" alt="Image editing tool 7" width="210"> | Enter numeric values to resize the object | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/91_image_size_example_zh.png" alt="Image editing example 7" width="280"> |
-| 8 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/92_replace_image_controls_zh.png" alt="Image editing tool 8" width="210"> | Replace an image | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/93_replace_image_example_zh.png" alt="Image editing example 8" width="280"> |
-| 9 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/94_save_image_controls_zh.png" alt="Image editing tool 9" width="210"> | Save an image or shape to the local device | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/95_save_image_example_zh.png" alt="Image editing example 9" width="280"> |
-| 10 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/96_delete_image_controls_zh.png" alt="Image editing tool 10" width="210"> | Delete an object | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/97_delete_image_example_zh.png" alt="Image editing example 10" width="280"> |
-
+| 1 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/12_image_transform_controls_en.png" alt="Image editing tool 1" width="210"> | Use general control handles to rotate, move, or drag to change position, angle, and size. |  |
+| 2 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/13_crop_image_controls_en.png" alt="Image editing tool 2" width="210"> | Crop the object. | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/14_crop_image_example_en.png" alt="Image editing example 2" width="280"> |
+| 3 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/15_layer_order_controls_en.png" alt="Image editing tool 3" width="210"> | Bring to front/back;<br><br>bring forward/backward. | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/16_layer_order_example_en.png" alt="Image editing example 3" width="280"> |
+| 4 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/17_rotate_image_controls_en.png" alt="Image editing tool 4" width="210"> | Rotate the object clockwise or counterclockwise. | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/18_rotate_image_example_en.png" alt="Image editing example 4" width="280"> |
+| 5 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/19_flip_image_controls_en.png" alt="Image editing tool 5" width="210"> | Flip horizontally or vertically. | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/20_flip_image_example_en.png" alt="Image editing example 5" width="280"> |
+| 6 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/21_image_opacity_controls_en.png" alt="Image editing tool 6" width="210"> | Adjust opacity. | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/22_image_opacity_example_en.png" alt="Image editing example 6" width="280"> |
+| 7 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/23_image_size_controls_en.png" alt="Image editing tool 7" width="210"> | Enter numerical values to adjust size. | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/24_image_size_example_en.png" alt="Image editing example 7" width="280"> |
+| 8 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/25_replace_image_controls_en.png" alt="Image editing tool 8" width="210"> | Replace the image. | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/26_replace_image_example_en.png" alt="Image editing example 8" width="280"> |
+| 9 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/27_save_image_controls_en.png" alt="Image editing tool 9" width="210"> | Save the image or graphic locally. | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/28_save_image_example_en.png" alt="Image editing example 9" width="280"> |
+| 10 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/29_delete_image_controls_en.png" alt="Image editing tool 10" width="210"> | Delete | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/30_delete_image_example_en.png" alt="Image editing example 10" width="280"> |
 
 # 3 Create or Edit Existing PDF Annotations
 
@@ -139,7 +138,7 @@ Layer controls prevent `images, text`, and other page objects from covering one 
 
 ElasticPDF provides a complete set of PDF annotation tools that can be created and edited using a mouse or touchscreen:
 
-Video demo: **<https://www.bilibili.com/video/BV1ET3F6ZEUo/>**
+Video demo: **<https://youtu.be/VU81Qf3VPlE>**
 
 * Highlight: Highlights and the text-markup tools listed below—including underlines, strikethroughs, and squiggly lines—support both regular and slanted text. After an annotation is created, users can still modify its range, color, line width, line style, and opacity. These tools are suitable for marking key points, errors, content requiring confirmation, and revision suggestions.
 * Underline.
@@ -159,27 +158,27 @@ Enterprise customers can also use the annotation API to build online collaborati
 
 |  |  |  |
 | --- | --- | --- |
-| 1 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/98_highlight_annotation_icon_zh.png" alt="PDF annotation tool 1" width="64"> | Highlight: Select text and apply highlighting, including to slanted text; the color, range, and other properties can be changed afterward<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/167_highlight_annotation_content_zh.png" alt="Highlight annotation content example" width="360"> |
-| 2 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/100_underline_annotation_icon_zh.png" alt="PDF annotation tool 2" width="64"> | Underline: Select text and underline it, including slanted text; the range, line width, line style, color, and other properties can be changed<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/168_underline_annotation_content_zh.png" alt="Underline annotation content example" width="360"> |
-| 3 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/101_strikethrough_annotation_icon_zh.png" alt="PDF annotation tool 3" width="64"> | Strikethrough: Supports the same editing options as underline<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/169_strikethrough_annotation_content_zh.png" alt="Strikethrough annotation content example" width="360"> |
-| 4 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/102_squiggly_annotation_icon_zh.png" alt="PDF annotation tool 4" width="64"> | Squiggly underline: Supports the same editing options as underline<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/170_squiggly_annotation_content_zh.png" alt="Squiggly annotation content example" width="360"> |
-| 5 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/103_freehand_ink_icon_zh.png" alt="PDF annotation tool 5" width="64"> | Freehand ink: Drag to draw lines; consecutive strokes are merged automatically, and the line width, style, and color can be changed<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/171_freehand_ink_content_zh.png" alt="Freehand annotation content example" width="360"> |
-| 6 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/104_callout_annotation_icon_zh.png" alt="PDF annotation tool 6" width="64"> | Callout annotation: Complete the drawing with three clicks, then modify its position, content, font, and other properties<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/172_callout_annotation_content_zh.png" alt="Callout annotation content example" width="360"> |
-| 7 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/105_sticky_note_icon_zh.png" alt="PDF annotation tool 7" width="64"> | Sticky note: Create with one click to leave a comment at a specific position<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/173_sticky_note_marker_zh.png" alt="Sticky note marker example" width="360"> |
-| 8 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/107_text_box_annotation_icon_zh.png" alt="PDF annotation tool 8" width="64"> | Text box: Create with one click and modify its various properties<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/174_text_box_annotation_content_zh.png" alt="Text box annotation content example" width="360"> |
-| 9 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/108_image_annotation_icon_zh.png" alt="PDF annotation tool 9" width="64"> | Image: Click or drag to define an area, then select an image to insert<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/175_image_annotation_content_zh.png" alt="Image annotation content example" width="360"> |
-| 10 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/109_stamp_annotation_icon_zh.png" alt="PDF annotation tool 10" width="64"> | Stamp: Select a stamp from the list on the left, then click or drag an area to create the annotation; users can create custom text stamps or generate a stamp from a selected annotation<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/176_stamp_annotation_content_zh.png" alt="Stamp annotation content example" width="360"> |
-| 11 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/110_signature_annotation_icon_zh.png" alt="PDF annotation tool 11" width="64"> | Signature: Select a signature from the list on the left, then click or drag an area to create the annotation<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/177_signature_annotation_content_zh.png" alt="Signature annotation content example" width="360"> |
-| 12 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/112_annotation_style_panel_icon_zh.png" alt="PDF annotation tool 12" width="64"> | Annotation style panel:<br><br>Click to open the properties panel and modify the style of the selected annotation or the default annotation style |
-| 13 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/113_undo_annotation_icon_zh.png" alt="PDF annotation tool 13" width="64"> | Undo: Undo an annotation editing operation |
-| 14 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/114_redo_annotation_icon_zh.png" alt="PDF annotation tool 14" width="64"> | Redo: Restore an annotation editing operation that was undone |
+| 1 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/31_highlight_annotation_icon_en.png" alt="Annotation tool 1" width="64"> | **Highlight:** Highlight selected text, including slanted text. The color, coverage, and other properties can be modified afterward.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/156_highlight_annotation_content_en.png" alt="Highlight annotation example" width="360"> |
+| 2 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/33_underline_annotation_icon_en.png" alt="Annotation tool 2" width="64"> | **Underline:** Underline selected text, including slanted text. The coverage, line width, line style, color, and other properties can be adjusted.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/157_underline_annotation_content_en.png" alt="Underline annotation example" width="360"> |
+| 3 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/34_strikethrough_annotation_icon_en.png" alt="Annotation tool 3" width="64"> | **Strikethrough:** Supports the same editing options as Underline.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/158_strikethrough_annotation_content_en.png" alt="Strikethrough annotation example" width="360"> |
+| 4 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/35_squiggly_annotation_icon_en.png" alt="Annotation tool 4" width="64"> | **Squiggly Underline:** Supports the same editing options as Underline.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/159_squiggly_annotation_content_en.png" alt="Squiggly underline annotation example" width="360"> |
+| 5 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/36_freehand_ink_icon_en.png" alt="Annotation tool 5" width="64"> | **Freehand Ink:** Drag to draw lines. Multiple consecutive strokes are automatically merged. The line width, line style, color, and other properties can be modified.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/160_freehand_ink_content_en.png" alt="Freehand ink annotation example" width="360"> |
+| 6 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/37_callout_annotation_icon_en.png" alt="Annotation tool 6" width="64"> | **Callout:** Complete the callout with three clicks. Its shape, position, content, font, and other properties can be modified.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/161_callout_annotation_content_en.png" alt="Callout annotation example" width="360"> |
+| 7 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/38_sticky_note_icon_en.png" alt="Annotation tool 7" width="64"> | **Note:** Click once to place a note for leaving comments at a specific location.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/162_sticky_note_marker_en.png" alt="Sticky note marker example" width="360"> |
+| 8 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/40_text_box_annotation_icon_en.png" alt="Annotation tool 8" width="64"> | **Text Box:** Click once to create a text box. Various properties can be modified afterward.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/163_text_box_annotation_content_en.png" alt="Text box annotation example" width="360"> |
+| 9 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/41_image_annotation_icon_en.png" alt="Annotation tool 9" width="64"> | **Image:** Click once or drag to define an area, then select an image to insert.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/164_image_annotation_content_en.png" alt="Image annotation example" width="360"> |
+| 10 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/42_stamp_annotation_icon_en.png" alt="Annotation tool 10" width="64"> | **Stamp:** Select a stamp from the left panel, then click once or drag to define an area and place it. You can also create custom text stamps or generate a stamp from a selected annotation.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/165_stamp_annotation_content_en.png" alt="Stamp annotation example" width="360"> |
+| 11 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/43_signature_annotation_icon_en.png" alt="Annotation tool 11" width="64"> | **Signature:** Select a signature from the left panel, then click once or drag to define an area and place it.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/166_signature_annotation_content_en.png" alt="Signature annotation example" width="360"> |
+| 12 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/45_annotation_style_panel_icon_en.png" alt="Annotation tool 12" width="64"> | **Annotation Style Panel:** Click to open the properties panel. Use it to modify the style of the selected annotation or change the default annotation style. |
+| 13 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/46_undo_annotation_icon_en.png" alt="Annotation tool 13" width="64"> | **Undo:** Undo the previous annotation editing action. |
+| 14 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/47_redo_annotation_icon_en.png" alt="Annotation tool 14" width="64"> | **Redo:** Restore an annotation editing action that was undone. |
 
 
 ## 3.2 Rectangles, Arrows, Polygons, Paths, and Hyperlinks
 
 ElasticPDF supports creating and editing rectangles, circles, ellipses, straight lines, arrows, polygons, polylines, and arcs on PDF pages.
 
-Video demo: **<https://www.bilibili.com/video/BV1iJ3P6KE23/>**
+Video demo: **<https://youtu.be/lgVpriXD0tk>**
 
 Rectangles, circles, and ellipses are suitable for enclosing text, images, tables, and important areas. Lines and arrows can point to errors, connect page objects, or indicate direction. Polygons, polylines, and arcs are suitable for marking irregular regions, boundaries, paths, and curved content.
 
@@ -201,13 +200,13 @@ Shape annotations also support adding comments, editing hyperlinks, opening the 
 
 |  |  |  |
 | --- | --- | --- |
-| 1 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/115_rectangle_annotation_icon_zh.png" alt="Shape annotation tool 1" width="64"> | Rectangle: Click or drag to draw a rectangle, then modify the border width, line style, border color, and fill color<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/147_rectangle_annotation_shape_zh.png" alt="Rectangle annotation example" width="360"> |
-| 2 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/117_ellipse_annotation_icon_zh.png" alt="Shape annotation tool 2" width="64"> | Circle: Click or drag to draw a circle or ellipse<br><br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/149_ellipse_annotation_shape_zh.png" alt="Ellipse annotation example" width="360"> |
-| 3 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/118_line_annotation_icon_zh.png" alt="Shape annotation tool 3" width="64"> | Line: Click or drag to draw a straight line, then modify its line and arrow properties<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/150_line_annotation_shape_zh.png" alt="Line annotation example" width="360"> |
-| 4 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/119_arrow_annotation_icon_zh.png" alt="Shape annotation tool 4" width="64"> | Arrow: Click or drag to draw an arrow, then modify its line and arrow properties<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/151_arrow_annotation_shape_zh.png" alt="Arrow annotation example" width="360"> |
-| 5 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/120_polygon_annotation_icon_zh.png" alt="Shape annotation tool 5" width="64"> | Polygon: Click multiple times to draw a polygon and double-click the page to finish. Border and fill styles can be changed.<br><br>After selecting the annotation, users can move, scale, and rotate it, or drag its nodes to change the shape<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/152_polygon_annotation_shape_zh.png" alt="Polygon annotation example" width="360"> |
-| 6 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/122_polyline_annotation_icon_zh.png" alt="Shape annotation tool 6" width="64"> | Polyline: Click multiple times to draw a polyline and double-click to finish; the line style and color can be changed<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/153_polyline_annotation_shape_zh.png" alt="Polyline annotation example" width="360"> |
-| 7 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/123_arc_annotation_icon_zh.png" alt="Shape annotation tool 7" width="64"> | Arc: Click three times to draw an arc, then modify its line style and color<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/154_arc_annotation_shape_zh.png" alt="Arc annotation example" width="360"> |
+| 1 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/48_rectangle_annotation_icon_en.png" alt="Shape annotation tool 1" width="64"> | **Rectangle:** Click or drag to draw a rectangle. The border width, border style, border color, and fill color can be modified.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/138_rectangle_annotation_shape_en.png" alt="Rectangle annotation example" width="360"> |
+| 2 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/50_ellipse_annotation_icon_en.png" alt="Shape annotation tool 2" width="64"> | **Ellipse:** Click or drag to draw a circle or ellipse.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/140_ellipse_annotation_shape_en.png" alt="Ellipse annotation example" width="360"> |
+| 3 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/51_line_annotation_icon_en.png" alt="Shape annotation tool 3" width="64"> | **Line:** Click or drag to draw a straight line. The line and endpoint arrow properties can be modified.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/141_line_annotation_shape_en.png" alt="Line annotation example" width="360"> |
+| 4 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/52_arrow_annotation_icon_en.png" alt="Shape annotation tool 4" width="64"> | **Arrow:** Click or drag to draw an arrow. The line and arrowhead properties can be modified.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/142_arrow_annotation_shape_en.png" alt="Arrow annotation example" width="360"> |
+| 5 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/53_polygon_annotation_icon_en.png" alt="Shape annotation tool 5" width="64"> | **Polygon:** Click multiple times to draw a polygon, then double-click on the page to finish. The border and fill styles can be modified.<br><br>After selecting an annotation, you can move, resize, and rotate it, or drag its control points to reshape it.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/143_polygon_annotation_shape_en.png" alt="Polygon annotation example" width="360"> |
+| 6 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/55_polyline_annotation_icon_en.png" alt="Shape annotation tool 6" width="64"> | **Polyline:** Click multiple times to draw a polyline, then double-click to finish. The line style and color can be modified.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/144_polyline_annotation_shape_en.png" alt="Polyline annotation example" width="360"> |
+| 7 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/56_arc_annotation_icon_en.png" alt="Shape annotation tool 7" width="64"> | **Arc:** Click three times to draw an arc. The line style and color can be modified.<br><br><img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/145_arc_annotation_shape_en.png" alt="Arc annotation example" width="360"> |
 
 ## 3.3 Annotation Editing Buttons
 
@@ -215,17 +214,17 @@ After selecting an existing annotation, users can open the comments list and pro
 
 |  |  |  |
 | --- | --- | --- |
-| 1 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/124_comments_button_zh.png" alt="Annotation editing button 1" width="180"> | Comments: Open or close the annotation's comments list |
-| 2 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/125_hyperlink_button_zh.png" alt="Annotation editing button 2" width="180"> | Hyperlink: Edit the hyperlink attached to the annotation |
-| 3 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/126_properties_panel_button_zh.png" alt="Annotation editing button 3" width="180"> | Properties panel: Open or close the annotation properties panel |
-| 4 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/127_create_stamp_button_zh.png" alt="Annotation editing button 4" width="180"> | Create stamp: Convert the current annotation into a reusable stamp |
-| 5 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/128_delete_annotation_button_zh.png" alt="Annotation editing button 5" width="180"> | Delete: Delete the currently selected annotation |
+| 1 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/57_comments_button_en.png" alt="Annotation editing button 1" width="180"> | **Comments:** Open or close the annotation’s comments list. |
+| 2 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/58_hyperlink_button_en.png" alt="Annotation editing button 2" width="180"> | **Hyperlink:** Edit the hyperlink attached to the annotation. |
+| 3 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/59_properties_panel_button_en.png" alt="Annotation editing button 3" width="180"> | **Properties Panel:** Open or close the annotation properties panel. |
+| 4 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/60_create_stamp_button_en.png" alt="Annotation editing button 4" width="180"> | **Create Stamp:** Create a reusable stamp from the selected annotation. |
+| 5 | <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/61_delete_annotation_button_en.png" alt="Annotation editing button 5" width="180"> | **Delete:** Delete the currently selected annotation. |
 
 # 4 Intelligent PDF Reader
 
 ElasticPDF also provides a complete, fully client-side PDF reader. The reader and the text, image, annotation, and shape editing modules all use the same client-side architecture.
 
-Video demo: **<https://www.bilibili.com/video/BV1vW3P6YEnS/>**
+Video demo: **<https://youtu.be/gTTBiILhSrA>**
 
 ## 4.1 Thumbnails, Bookmarks, and Text Search
 
@@ -237,10 +236,11 @@ Video demo: **<https://www.bilibili.com/video/BV1vW3P6YEnS/>**
 
 ## 4.3 Light Mode and Dark Mode
 
+
 |  |
 | --- |
-| <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/135_light_mode_zh.png" alt="ElasticPDF light mode" width="760"> |
-| <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/136_dark_mode_zh.png" alt="ElasticPDF dark mode" width="760"> |
+| <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/68_light_mode_en.png" alt="ElasticPDF light mode" width="760"> |
+| <img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/69_dark_mode_en.png" alt="ElasticPDF dark mode" width="760"> |
 
 # Summary
 
