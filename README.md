@@ -40,6 +40,8 @@ AI 可以在几秒钟内读完一篇文章，为我们总结内容、提炼要�
 
 和你一起，享受阅读，理解知识，也享受成长。
 
+<img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/136_dark_mode_zh.png" alt="ElasticPDF 黑夜模式">
+
 # 0 总览
 
 为了让阅读和文档处理更加自由，我们首先为 ElasticPDF 构建了一套完整的 PDF 阅读与编辑基础设施，并持续优化阅读、编辑和交互体验。
