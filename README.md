@@ -39,7 +39,7 @@ We believe AI should help us read better, not replace reading itself.
 With ElasticPDF, we hope to keep refining a purer and better reading experience — `letting technology fade into the background, so the content can return to the center of attention`.
 
 Together with you, we hope to enjoy reading, deepen our understanding, and embrace the joy of learning and growth.
-<img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/68_light_mode_en.png" alt="ElasticPDF light mode">
+<img src="https://raw.githubusercontent.com/ElasticPDF/elasticpdf/main/images/20260805/69_dark_mode_en.png" alt="ElasticPDF dark mode">
 
 # 0 Overview
 
