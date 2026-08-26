@@ -10,6 +10,14 @@ This Web Preview update expands PDF editing with redaction, text replacement, an
 
 ### Added
 
+#### Page Management and Editing
+
+- Added a dedicated page-management workspace in the thumbnail view.
+- Added single-page and multi-page selection, including range selection and rubber-band selection.
+- Added drag-and-drop page reordering with a drag preview and directional drop markers.
+- Added insertion of blank pages and pages from another PDF before or after a selected page.
+- Added page actions to move a page up, down, to the top, or to the bottom, delete selected pages, and export a page or selection as PDF or images.
+
 #### PDF Redaction
 
 - Added text-selection redaction and rectangular area redaction.
@@ -58,6 +66,12 @@ This Web Preview update expands PDF editing with redaction, text replacement, an
 - Fixed coordinate offsets for text containing hyphens.
 - Improved selection stability after repeatedly rotating text objects.
 
+#### Page Structure and Rendering
+
+- Synchronized the main canvas, thumbnails, annotations, and page navigation after page insertion, deletion, and reordering.
+- Improved incremental refresh and cache invalidation after page-structure changes.
+- Preserved annotations from inserted PDF pages and remapped annotation page indexes after page mutations.
+
 #### Document State, UI, and Developer Experience
 
 - Preserved loaded document state when switching between document tabs.
@@ -76,7 +90,7 @@ This Web Preview update expands PDF editing with redaction, text replacement, an
 
 ### Validation
 
-- Added regression coverage for redaction runtime and image handling, text search replacement, text-resize visuals, annotation transfer, toolbar icon references, development protocol scripts, and production font assets.
+- Added regression coverage for page selection, page-drop geometry, thumbnail mutations, page-structure annotation remapping, redaction runtime and image handling, text search replacement, text-resize visuals, annotation transfer, toolbar icon references, development protocol scripts, and production font assets.
 - Verified the release with targeted regression tests, production asset checks, and Vite builds.
 
 ---
